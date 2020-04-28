@@ -1,5 +1,11 @@
-mport wordlist
-from secretpy import Vigenere
+try:
+     import wordlist
+except ImportError:
+       print("[-] pip install wordlist ")
+try:
+      from secretpy import Vigenere
+except ImportError:
+       print("[-] pip install secretpy ")
 
 """
 generators Wordlists 
