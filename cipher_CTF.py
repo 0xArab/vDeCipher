@@ -8,7 +8,7 @@ except ImportError:
        print("[-] pip install secretpy ")
 
 """
-generators Wordlists 
+Generating Wordlists 
 """
 def generators():
       generator = wordlist.Generator('abcdefghijklmnopqrstuvwxyz')
