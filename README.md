@@ -3,7 +3,7 @@ The Vigenère cipher (French pronunciation: ​[viʒnɛːʁ]) is a method of enc
 
 ## About Tool
    * BruteForce key to Decrypt Vigenère 
-   * SomeTimes You need To Solve CTF Challenge and after Decrypt Cipher ? -> Flag
+   * SomeTimes You need To Solving CTF Challenge and after Decrypt Cipher ? -> Flag
    
 ## Authors
 
