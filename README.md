@@ -7,4 +7,4 @@ The Vigenère cipher (French pronunciation: ​[viʒnɛːʁ]) is a method of enc
    
 ## Authors
 
-* **xAltmime** - *Player CTF* - [@Twitter](https://twitter.com/xAltmime)
+* **xAltmime** - * || CTF Player * - [@Twitter](https://twitter.com/xAltmime)
